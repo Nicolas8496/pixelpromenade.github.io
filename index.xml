@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pixel promenade</title>
+    <link>https://pixelpromenade.github.io/</link>
+    <description>Recent content on Pixel promenade</description>
+    <generator>Hugo -- 0.126.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jul 2024 22:34:20 +0200</lastBuildDate>
+    <atom:link href="https://pixelpromenade.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon nouveau post</title>
+      <link>https://pixelpromenade.github.io/posts/monnouveaupost/</link>
+      <pubDate>Thu, 25 Jul 2024 22:34:20 +0200</pubDate>
+      <guid>https://pixelpromenade.github.io/posts/monnouveaupost/</guid>
+      <description>blablabla ceci est mon premier post.</description>
+    </item>
+  </channel>
+</rss>
