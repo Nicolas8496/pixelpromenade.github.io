@@ -1,19 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Pixel promenade</title>
+    <title>Posts on Pixel Promenade</title>
     <link>https://pixelpromenade.github.io/posts/</link>
-    <description>Recent content in Posts on Pixel promenade</description>
+    <description>Recent content in Posts on Pixel Promenade</description>
     <generator>Hugo -- 0.126.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2024 22:34:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 19:49:57 +0200</lastBuildDate>
     <atom:link href="https://pixelpromenade.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mon nouveau post</title>
+      <title>Pixel Promenade</title>
       <link>https://pixelpromenade.github.io/posts/monnouveaupost/</link>
-      <pubDate>Thu, 25 Jul 2024 22:34:20 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pixelpromenade.github.io/posts/monnouveaupost/</guid>
-      <description>blablabla ceci est mon premier post.</description>
+      <description>Bienvenue à tous les pixel-promeneurs ! 🎉
+Dans ce blog je parle essentiellement de programmation, de littérature et de life-style.</description>
+    </item>
+    <item>
+      <title>Article du mercredi</title>
+      <link>https://pixelpromenade.github.io/posts/article_du_mercredi/</link>
+      <pubDate>Wed, 16 Oct 2024 19:49:57 +0200</pubDate>
+      <guid>https://pixelpromenade.github.io/posts/article_du_mercredi/</guid>
+      <description>Et encore un article test
+Ceci pour voir comment ça peut rendre sur le blog. Ceci est encore un test.</description>
+    </item>
+    <item>
+      <title>Et_encore_un_nouvel_article</title>
+      <link>https://pixelpromenade.github.io/posts/et_encore_un_nouvel_article/</link>
+      <pubDate>Fri, 11 Oct 2024 21:22:46 +0200</pubDate>
+      <guid>https://pixelpromenade.github.io/posts/et_encore_un_nouvel_article/</guid>
+      <description>Bonjour
+Ceci est encore un nouvel article de blog pour voir ce que ça fait.</description>
+    </item>
+    <item>
+      <title>2024_09_25_premier_article</title>
+      <link>https://pixelpromenade.github.io/posts/2024_09_25_premier_article/</link>
+      <pubDate>Wed, 25 Sep 2024 20:44:56 +0200</pubDate>
+      <guid>https://pixelpromenade.github.io/posts/2024_09_25_premier_article/</guid>
+      <description>Bonjour a toutes et a tous,
+J’espère que vous allez bien en ce mois de septembre 2024, alors que je rédige cette première entrée de blog. J’ai beaucoup hésité a propos de ce que je pourrais raconter dans ce premier article, et traditionnellement (dixit le Codex du bloggueur), il est conseillé de simplement se présenter. Mais je n’arrivais pas a aligner deux phrases cohérentes et la présentation &amp;ldquo;classique&amp;rdquo; n’échappa pas a cette rouille d’écriture et à mes réflexes fatigués de vieux scribe qui sort d’une longue hibernation.</description>
     </item>
   </channel>
 </rss>
